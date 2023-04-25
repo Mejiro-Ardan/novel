@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不想当偶像的马娘不是好术力口/设定集/设定·碎碎念.md",
+                "file": "不想当偶像的马娘不是好术力口/第一卷·属于我的童年/1·我叫樱落，来自东京.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不想当偶像的马娘不是好术力口/设定集/设定·碎碎念.md",
+                "file": "不想当偶像的马娘不是好术力口/第一卷·属于我的童年/1·我叫樱落，来自东京.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "不想当偶像的马娘不是好术力口/设定集/设定·碎碎念.md",
+                "file": "不想当偶像的马娘不是好术力口/第一卷·属于我的童年/1·我叫樱落，来自东京.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不想当偶像的马娘不是好术力口/设定集/设定·碎碎念.md"
+                "file": "不想当偶像的马娘不是好术力口/第一卷·属于我的童年/1·我叫樱落，来自东京.md"
               }
             }
           }
@@ -144,8 +144,7 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "publish:发布更改": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "893358c0c8cb40fc",
